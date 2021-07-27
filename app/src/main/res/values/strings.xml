@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Firebase_app</string>
+    <string name="logout">Logout</string>
+</resources>

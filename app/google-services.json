@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "996880743646",
+    "project_id": "otpauthentication-ba0fd",
+    "storage_bucket": "otpauthentication-ba0fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996880743646:android:81b7f1f73648b6e662d64f",
+        "android_client_info": {
+          "package_name": "com.example.firebase_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996880743646-j46ivoohl8guu02jdod8fpccn4ahk2h4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXzDpRHJ-ZDy1Lw1u3V87TjV7IIzR01ZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "996880743646-j46ivoohl8guu02jdod8fpccn4ahk2h4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
